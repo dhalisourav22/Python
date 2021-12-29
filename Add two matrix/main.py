@@ -8,7 +8,7 @@ for rowIndex in range(len(x)):
     for colIndex in range(len(x[0])):
         z[rowIndex][colIndex] = x[rowIndex][colIndex]+y[rowIndex][colIndex]           #resultMatrix = no1Matrix + no2matrix
 
-print("The Matrix Is : ")
+print("The Matrix Is : ")             #showing the output means the result matrix
 for row in z:
     for col in row:
         print(col,end="   ")
