@@ -1,5 +1,5 @@
 userInput = input("Enter The String : ")
-noOfWords = 0
+noOfWords = 0                       #For counting.
 noOfLetter = 0
 noOfNumber = 0
 
