@@ -3,7 +3,7 @@ noOfWords = 0
 noOfLetter = 0
 noOfNumber = 0
 
-for x in userInput:        #This is check each
+for x in userInput:        #This is check each and
     x.lower()
     if x>="a" and x<="z":
         noOfLetter+=1
