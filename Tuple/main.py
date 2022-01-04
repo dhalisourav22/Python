@@ -1,4 +1,5 @@
 #When we need to multiple item to save in a single variable, this variable is called tuple.
+#We can not direactly update any tuple.(We can only do this by using list.)
 thisTuple = ("Apple","Banana","Cherry")
 thisTuple1 = ("A","b",True,4)                                    #We can use different data type in tuple.
 thisTuple2 = ("x",)                                              #Single item in a tuple, for that reason an extra coma use after this item.
