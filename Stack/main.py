@@ -17,5 +17,5 @@ thisStack.pop()
 thisStack.pop()
 print("After pop 5 time :",thisStack)
 
-if not thisStack:                   #if the collection is empty then it will return True.
+if not thisStack:                                   #if the collection is empty then it will return True.
     print("The stack is empty.!")
