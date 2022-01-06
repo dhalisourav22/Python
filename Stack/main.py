@@ -1,4 +1,4 @@
-#creating a stack by using list. We can use all list operation here. because this is a list.
+#creating a stack by using list. We can use all list operation here. because this is a list. 
 thisStack = ["Sourav","Juthi","Sumi","Shuvo","Mehedi"]
 
 #push an item.
