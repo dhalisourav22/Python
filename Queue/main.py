@@ -12,6 +12,7 @@ thisQueue.popleft()
 thisQueue.popleft()
 print("After Pop 3 time :",thisQueue)
 print(f"We have : {len(thisQueue)} item's")      #this is return the number of item the queue have.
+                                                 #We can use all type of list operation here. because this also a list with some extra featuer of deque class.
 
 if not thisQueue:
     print("This Queue is empty!")
