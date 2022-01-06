@@ -9,7 +9,7 @@ print("After adding an item into the stack :",thisStack)
 thisStack.pop()
 print("After pop :",thisStack)
 print("The top item is :",thisStack[-1])
-print("We have :",len(thisStack),"item's.")
+print("We have :",len(thisStack),"item's.")         #this is show the number of item the stack have.
 thisStack.pop()
 thisStack.pop()
 thisStack.pop()
